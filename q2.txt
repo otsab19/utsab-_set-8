@@ -1,0 +1,19 @@
+
+def multiply(num1, num2):
+    total = 0 
+    for i in range(len(num1)):
+        a = int(num1[len(num1)-1-i])   #index from ones pos to ..th pos.
+        for j in range(len(num2)):
+            b = int(num2[len(num2)-1-j])
+                
+            total += a * b * (10 ** (i + j))
+        
+    return str(total)    #string
+
+num1 = input("enter num1 ====>");
+num2 = input("enter num2 ====>");
+print(multiply(num1,num2))
+
+
+# 123*234   
+# (100+20+3)*(200+30+4)

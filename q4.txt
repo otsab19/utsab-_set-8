@@ -1,0 +1,7 @@
+The mode of development I would use for the development of moble app or website for the startup would be 
+using the agile model for the development cycle of the software . The website design can be MVC for the frontend. For the backend database required mode is selected .
+Plannig for the app/website:
+1.FIrst of all information gathering ,finding the constraints and requirements.
+2.Division of work for the frontend and backend accordingly .
+3.Time and quality measures planning.
+4.Documentation of the plan to acquaint to each team members.
